@@ -2,7 +2,7 @@
 
 My Personal Blog site, discussess all things tech, development, mobile, and gaming
 
-#Tech Stack
+## Tech Stack
 - React
 - Nextjs
 - Tailwindcss
