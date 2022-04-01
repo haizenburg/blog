@@ -7,6 +7,10 @@ My Personal Blog site, discussess all things tech, development, mobile, and gami
 - Nextjs
 - Tailwindcss
 - typescript
+- node 
+
+## To do
+- back end cms
 
 ## How to use
 
